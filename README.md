@@ -29,7 +29,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Funky silent bugs are spookier than Halloween
 
 ## License
 
